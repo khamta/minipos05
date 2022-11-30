@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Hello Laravel + Vuejs</h1>
+        <h1>Hello Laravel + Vuejs 111</h1>
     </div>
 </template>
 
