@@ -1,0 +1,30 @@
+@font-face {
+    font-family: NotoSansLao;
+    src: url(./fonts/NotoSansLaoUI-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+html,
+body,
+div,
+p,
+table,
+tr,
+td {
+    font-family: "NotoSansLao";
+    margin: 0;
+    font-size: 1rem;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "NotoSansLao";
+}
+
+table,
+td,
+table {
+    white-space: normal;
+}
